@@ -1,0 +1,6 @@
+venv/
+dataset/
+__pycache__/
+*.pyc
+temp.jpg
+models/*.h5
